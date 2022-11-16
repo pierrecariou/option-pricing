@@ -1,0 +1,463 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj": {}
+  },
+  "projects": {
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
+        "projectName": "OptionPricing.DAO",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj",
+        "projectName": "OptionPricing.Domain.Service",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
+        "projectName": "OptionPricing.Domain",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+        "projectName": "OptionPricing.Infrastructure",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DryIoc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
+        "projectName": "OptionPricing.NetMQService",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NetMQ": {
+              "target": "Package",
+              "version": "[4.0.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj",
+        "projectName": "OptionPricing.Repository",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
+        "projectName": "OptionPricing.Service",
+        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
+        "packagesPath": "/home/pcariou/.nuget/packages/",
+        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+              },
+              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
+                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DryIoc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
