@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LCiaQ4oCVKSJfVx6fiYZ8IgX3CC3FDOIxH80blva7j36b9weDSyWKrsJmiL9xqB7HtEZuczZEKjoc+5ZA5sxCg==",
+  "dgSpecHash": "3nVQTc76SbxK7n7GSIHNbXTgQp6bul7QAQ3gY2ozg7ssIHy1AnpJZt6iozCszfRRXrce23EAVW1sRmMA2r+ZWQ==",
   "success": true,
-  "projectFilePath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+  "projectFilePath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/pcariou/.nuget/packages/dryioc/5.3.0/dryioc.5.3.0.nupkg.sha512",
     "/home/pcariou/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

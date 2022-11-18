@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GuvNHMVKJgaQnGNnMChbodJGNTIJfUGNiJOf+hOU1ogUS2WsedJdP0u/wA0ey3CG0F9q3PIF48DT0nzUnNDdzQ==",
+  "dgSpecHash": "CHqYnvY+qahqX2XNzeGqfm7xXTsBIL3uz3BiDkD1R6DsKsuC8CGL6BzigeJMZ6T5sYIwc2csU01TeZ/1IRtfsg==",
   "success": true,
-  "projectFilePath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
+  "projectFilePath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
   "expectedPackageFiles": [
     "/home/pcariou/.nuget/packages/castle.core/5.0.0/castle.core.5.0.0.nupkg.sha512",
     "/home/pcariou/.nuget/packages/dryioc/5.3.0/dryioc.5.3.0.nupkg.sha512",

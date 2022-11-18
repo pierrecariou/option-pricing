@@ -33,12 +33,12 @@ public class PricingService : IOptionService
 
         // Pricer 
         var pricer = optionPricingRegistration.Resolve<IPricingService>(pricing.Model);
-        var price = pricer.Price(pricing);
+        double price = pricer.Price(pricing);
         pricing.Premium = new Premium((float)price);
 
         int id = _pricingRepository.InsertPricing(pricing);
 
-        _optionPricingSerialiser.Serialize<Pricing>(pricing);
+        jsonString = _optionPricingSerialiser.Serialize<Pricing>(pricing);
 
         return jsonString;
     }

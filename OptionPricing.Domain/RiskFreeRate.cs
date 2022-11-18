@@ -10,10 +10,10 @@ public class RiskFreeRate
 {
 	public float Value { get; private set; }
 
-	public RiskFreeRate(float riskFreeRate)
+	public RiskFreeRate(float Value)
 	{
-		if (riskFreeRate < 0)
+		if (Value < 0)
 			throw new Exception("Risk free rate can't be negative");
-		Value = riskFreeRate;
+		this.Value = this.Value;
 	}
 }

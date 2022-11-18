@@ -10,10 +10,10 @@ public class InitialStockPrice
 {
 	public float Value { get; private set; }
 
-	public InitialStockPrice(float initialStockPrice)
+	public InitialStockPrice(float Value)
 	{
-		if (initialStockPrice < 0)
+		if (Value < 0)
 			throw new Exception("Initial stock price can't be negative");
-		Value = initialStockPrice;
+		this.Value = Value;
 	}
 }

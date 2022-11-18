@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uhy1wvM2VeeJ5bM+zU8eJwOeqUz4P7bYChXRZap0KZv+TjbvfZPjdat/6bwB4T8NNcYyN+sjsa1AfH69JHgdhg==",
+  "dgSpecHash": "MaO5jWUq4ttYvcnUWd4utGVVxzFYwDUhYgYDK0p60lyngbBwv7CKzimzWGiCRP/CKoy4LXxTjCfO7oqQQlI3Xw==",
   "success": true,
-  "projectFilePath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
+  "projectFilePath": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
   "expectedPackageFiles": [
     "/home/pcariou/.nuget/packages/asyncio/0.1.69/asyncio.0.1.69.nupkg.sha512",
     "/home/pcariou/.nuget/packages/castle.core/5.0.0/castle.core.5.0.0.nupkg.sha512",

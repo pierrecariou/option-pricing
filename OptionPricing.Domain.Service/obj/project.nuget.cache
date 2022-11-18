@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZvBoTlcmdOeu6KkXqrQyjItSmEulyhAiWoaGD2Y/mB5w5+abWUetORAiAY6EdA/tA1sfqhQkOeSYQJXBRrNxA==",
+  "dgSpecHash": "4X6jcF1iSZa8rG2iRmXz/sRYzqV4w2wO4k8JZ2PfL+H02g93stVSSKZy2AvplVDWfdEBk1ifcPaJBpv3h3DaeQ==",
   "success": true,
-  "projectFilePath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj",
+  "projectFilePath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj",
   "expectedPackageFiles": [
     "/home/pcariou/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/home/pcariou/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",

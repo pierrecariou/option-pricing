@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {}
+    "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+    "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
         "projectName": "OptionPricing.Infrastructure",
-        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
         "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/obj/",
+        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pcariou/.nuget/NuGet/NuGet.Config"

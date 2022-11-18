@@ -16,7 +16,7 @@ registration.Register<IPricingDAO, PricingDAO>();
 registration.Register<IOptionPricingSerializer, OptionPricingSerializer>();
 registration.Register<IOptionRepository, OptionRepository>();
 
-registration.Register<IPricingService, BlackScholes_PricingService>(Model.BlackScholes);
+registration.Register<IPricingService, BlackScholes>(Model.BlackScholes);
 registration.Register<IPricingService, HJM_PricingService>(Model.HJM);
 
 registration.Register<IOptionService, PricingService>();

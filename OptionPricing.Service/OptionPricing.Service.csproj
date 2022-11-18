@@ -8,10 +8,6 @@
     <ProjectReference Include="..\OptionPricing.DAO\OptionPricing.DAO.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="DryIoc" Version="5.3.0" />
-  </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

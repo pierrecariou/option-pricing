@@ -9,11 +9,13 @@ namespace OptionPricing.Domain;
 public class PricingDate
 {
 	public DateTime Value {get; private set;}
+	
 
-	public PricingDate(DateTime dateTime)
+	public PricingDate(DateTime Value)
 	{
-		if (dateTime > DateTime.Today)
+		//Console.WriteLine(" YOLOO"  + Value);
+		if (Value > DateTime.Today)
 			throw new Exception("pricing date is not valid");
-		Value = dateTime;
+		this.Value = Value;
 	}
 }

@@ -10,10 +10,10 @@ public class DeskName
 {
 	public string Value { get; private set; }
 
-	public DeskName(string deskName)
+	public DeskName(string Value)
 	{
-		if (deskName == null)
+		if (Value == null)
 			throw new Exception("Invalid desk name");
-		Value = deskName;
+		this.Value = Value;
 	}
 }

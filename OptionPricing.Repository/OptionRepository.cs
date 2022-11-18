@@ -27,6 +27,7 @@ public class OptionRepository : IOptionRepository
 	public int InsertPricing(Pricing pricing)
 	{
 		var pricingDTO = new PricingDTO();
+		pricingDTO.dateTime = pricing.PricingDate.Value;
 		pricingDTO.name = pricing.Option.Trader.Desk.DeskName.Value;
 		pricingDTO.lastName = pricing.Option.Trader.LastName.Value;
 		pricingDTO.firstName = pricing.Option.Trader.LastName.Value;		
@@ -67,7 +68,7 @@ public class OptionRepository : IOptionRepository
 		Underlying underlying = new Underlying(initialStockPrice, impliedVolatility, riskFreeRate, underlyingType);
 		Option option = new Option(strike, maturity, trader, underlying);
 
-		Pricing pricing = new Pricing(pricingDate, premium, option, model);
+		Pricing pricing = new Pricing(pricingDate, option, model);
 
 		return pricing;
 	}

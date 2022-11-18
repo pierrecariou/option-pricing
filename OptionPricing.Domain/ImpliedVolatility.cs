@@ -10,10 +10,10 @@ public class ImpliedVolatility
 {
 	public float Value { get; private set; }
 
-	public ImpliedVolatility(float impliedVolatility)
+	public ImpliedVolatility(float Value)
 	{
-		if (impliedVolatility < 0)
+		if (Value < 0)
 			throw new Exception("Implied volatility can't be negative");
-		Value = impliedVolatility;
+		this.Value = Value;
 	}
 }

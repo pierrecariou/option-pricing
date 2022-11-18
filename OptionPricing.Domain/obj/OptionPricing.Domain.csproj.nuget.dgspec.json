@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {}
+    "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {}
   },
   "projects": {
-    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+    "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
+        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
         "projectName": "OptionPricing.DAO",
-        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
+        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
         "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/obj/",
+        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pcariou/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+    "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
+        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
         "projectName": "OptionPricing.Domain",
-        "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
+        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
         "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/obj/",
+        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pcariou/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-                "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
               }
             }
           }

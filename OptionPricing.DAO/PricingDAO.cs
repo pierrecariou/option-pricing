@@ -34,6 +34,7 @@ public class PricingDAO : IPricingDAO
 				cmd.Parameters.Add(new SqlParameter("@model", DTO.model));
 				cmd.Parameters.Add(new SqlParameter("@strike", DTO.strike));
 				cmd.Parameters.Add(new SqlParameter("@maturity", DTO.maturity));
+
 				cmd.Parameters.Add(new SqlParameter("@last_name", DTO.lastName));
 				cmd.Parameters.Add(new SqlParameter("@first_name", DTO.firstName));
 				cmd.Parameters.Add(new SqlParameter("@name", DTO.name));

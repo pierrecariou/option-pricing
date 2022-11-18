@@ -4,10 +4,10 @@ public class FirstName
 {
 	public string Value {get; private set;}
 
-	public FirstName(string firstName)
+	public FirstName(string Value)
 	{
-		if (String.IsNullOrEmpty(firstName))
+		if (String.IsNullOrEmpty(Value))
 			throw new Exception("First name must be set");
-		Value = firstName;
+		this.Value = Value;
 	}
 }

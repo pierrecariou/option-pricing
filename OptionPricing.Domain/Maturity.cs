@@ -10,10 +10,10 @@ public class Maturity
 {
 	public DateTime Value {get; private set;}
 
-	public Maturity(DateTime maturity) {
-		if (maturity <= DateTime.Today)
+	public Maturity(DateTime Value) {
+		if (Value > DateTime.Today)
 			throw new Exception("Maturity should be later than today");
-		Value = maturity;
+		this.Value = Value;
 	}
 
 }

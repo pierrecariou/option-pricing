@@ -10,10 +10,11 @@ public class Strike
 {
 	public float Value { get; private set; }
 
-	public Strike(float strike)
+	public Strike(float Value)
 	{
-		if (strike <= 0)
+		//Console.WriteLine("Hello  " + Value);
+		if (Value <= 0)
 			throw new Exception("Strike can't negative or equal to 0");
-		Value = strike;
+		this.Value = Value;
 	}
 }

@@ -12,38 +12,4 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/home/pcariou/.nuget/packages/" />
   </ItemGroup>
-  <ItemGroup Condition=" '$(Language)' == 'C#' AND '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Compile Include="$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/Container.cs" Condition="Exists('$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/Container.cs')">
-      <NuGetPackageId>DryIoc</NuGetPackageId>
-      <NuGetPackageVersion>5.3.0</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>DryIoc/Container.cs</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/Expression.cs" Condition="Exists('$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/Expression.cs')">
-      <NuGetPackageId>DryIoc</NuGetPackageId>
-      <NuGetPackageVersion>5.3.0</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>DryIoc/Expression.cs</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/FastExpressionCompiler.cs" Condition="Exists('$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/FastExpressionCompiler.cs')">
-      <NuGetPackageId>DryIoc</NuGetPackageId>
-      <NuGetPackageVersion>5.3.0</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>DryIoc/FastExpressionCompiler.cs</Link>
-    </Compile>
-    <Compile Include="$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/ImTools.cs" Condition="Exists('$(NuGetPackageRoot)dryioc/5.3.0/contentFiles/cs/netstandard2.0/DryIoc/ImTools.cs')">
-      <NuGetPackageId>DryIoc</NuGetPackageId>
-      <NuGetPackageVersion>5.3.0</NuGetPackageVersion>
-      <NuGetItemType>Compile</NuGetItemType>
-      <Pack>false</Pack>
-      <Private>False</Private>
-      <Link>DryIoc/ImTools.cs</Link>
-    </Compile>
-  </ItemGroup>
 </Project>

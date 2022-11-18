@@ -24,24 +24,9 @@
           "System.Reflection.Emit.Lightweight": "4.3.0"
         },
         "contentFiles": {
-          "contentFiles/cs/netstandard2.0/DryIoc/Container.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/netstandard2.0/DryIoc/Expression.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/netstandard2.0/DryIoc/FastExpressionCompiler.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
-            "copyToOutput": false
-          },
-          "contentFiles/cs/netstandard2.0/DryIoc/ImTools.cs": {
-            "buildAction": "Compile",
-            "codeLanguage": "cs",
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
             "copyToOutput": false
           }
         }
@@ -1468,7 +1453,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DryIoc >= 5.3.0",
       "OptionPricing.DAO >= 1.0.0",
       "OptionPricing.Domain >= 1.0.0",
       "OptionPricing.Domain.Service >= 1.0.0",
@@ -1482,11 +1466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
+      "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
       "projectName": "OptionPricing.Service",
-      "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
+      "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
       "packagesPath": "/home/pcariou/.nuget/packages/",
-      "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/obj/",
+      "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pcariou/.nuget/NuGet/NuGet.Config"
@@ -1501,20 +1485,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
             }
           }
         }
@@ -1528,12 +1512,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "DryIoc": {
-            "target": "Package",
-            "version": "[5.3.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

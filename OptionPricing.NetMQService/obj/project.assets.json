@@ -768,7 +768,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "DryIoc": "5.3.0",
           "OptionPricing.DAO": "1.0.0",
           "OptionPricing.Domain": "1.0.0",
           "OptionPricing.Domain.Service": "1.0.0",
@@ -2470,11 +2469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
+      "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
       "projectName": "OptionPricing.NetMQService",
-      "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
+      "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
       "packagesPath": "/home/pcariou/.nuget/packages/",
-      "outputPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.NetMQService/obj/",
+      "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pcariou/.nuget/NuGet/NuGet.Config"
@@ -2489,23 +2488,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
             },
-            "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj": {
-              "projectPath": "/home/pcariou/code/work/C#/options-pricing/OptionPricing.Service/OptionPricing.Service.csproj"
+            "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj": {
+              "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj"
             }
           }
         }
