@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj": {}
+  },
+  "projects": {
+    "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj",
+        "projectName": "OptionPricing.DAO",
+        "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj",
+        "projectName": "OptionPricing.Domain",
+        "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+                "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj",
+        "projectName": "OptionPricing.Infrastructure",
+        "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DryIoc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj",
+        "projectName": "OptionPricing.Transport",
+        "projectPath": "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Transport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
+              },
+              "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
+                "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NetMQ": {
+              "target": "Package",
+              "version": "[4.0.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj",
+        "projectName": "OptionPricing.UI.WPF",
+        "projectPath": "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.UI.WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
+              },
+              "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
+                "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj"
+              },
+              "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj": {
+                "projectPath": "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

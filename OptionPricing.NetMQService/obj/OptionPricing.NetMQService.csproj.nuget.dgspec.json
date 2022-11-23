@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj": {}
+    "Z:\\OptionPricing.NetMQService\\OptionPricing.NetMQService.csproj": {}
   },
   "projects": {
-    "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
+    "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj",
         "projectName": "OptionPricing.DAO",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/obj/",
+        "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.DAO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,34 +61,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
+    "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj",
         "projectName": "OptionPricing.Domain.Service",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/obj/",
+        "projectPath": "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Domain.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
               }
             }
           }
@@ -116,34 +120,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
+    "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj",
         "projectName": "OptionPricing.Domain",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/obj/",
+        "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+                "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
               }
             }
           }
@@ -173,26 +179,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
+    "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj",
         "projectName": "OptionPricing.Infrastructure",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/obj/",
+        "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -236,49 +244,51 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj": {
+    "Z:\\OptionPricing.NetMQService\\OptionPricing.NetMQService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.NetMQService\\OptionPricing.NetMQService.csproj",
         "projectName": "OptionPricing.NetMQService",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/OptionPricing.NetMQService.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.NetMQService/obj/",
+        "projectPath": "Z:\\OptionPricing.NetMQService\\OptionPricing.NetMQService.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.NetMQService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+                "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
+              "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+              "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
+                "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
+              "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj": {
+                "projectPath": "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj"
+              "Z:\\OptionPricing.Service\\OptionPricing.Service.csproj": {
+                "projectPath": "Z:\\OptionPricing.Service\\OptionPricing.Service.csproj"
               }
             }
           }
@@ -314,37 +324,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
+    "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj",
         "projectName": "OptionPricing.Repository",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/obj/",
+        "projectPath": "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+                "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
               }
             }
           }
@@ -380,46 +392,48 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj": {
+    "Z:\\OptionPricing.Service\\OptionPricing.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
+        "projectUniqueName": "Z:\\OptionPricing.Service\\OptionPricing.Service.csproj",
         "projectName": "OptionPricing.Service",
-        "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/OptionPricing.Service.csproj",
-        "packagesPath": "/home/pcariou/.nuget/packages/",
-        "outputPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Service/obj/",
+        "projectPath": "Z:\\OptionPricing.Service\\OptionPricing.Service.csproj",
+        "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+        "outputPath": "Z:\\OptionPricing.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pcariou/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.DAO/OptionPricing.DAO.csproj"
+              "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+                "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain.Service/OptionPricing.Domain.Service.csproj"
+              "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain.Service\\OptionPricing.Domain.Service.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Domain/OptionPricing.Domain.csproj"
+              "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+                "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+              "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
+                "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj"
               },
-              "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj": {
-                "projectPath": "/home/pcariou/code/work/option-pricing/OptionPricing.Repository/OptionPricing.Repository.csproj"
+              "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj": {
+                "projectPath": "Z:\\OptionPricing.Repository\\OptionPricing.Repository.csproj"
               }
             }
           }
@@ -449,7 +463,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

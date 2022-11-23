@@ -1,0 +1,14 @@
+Z:\OptionPricing.UI.WPF\bin\Debug\OptionPricing.UI.WPF.exe.config
+Z:\OptionPricing.UI.WPF\bin\Debug\OptionPricing.UI.WPF.exe
+Z:\OptionPricing.UI.WPF\bin\Debug\OptionPricing.UI.WPF.pdb
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF.csproj.AssemblyReference.cache
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF.csproj.SuggestedBindingRedirects.cache
+Z:\OptionPricing.UI.WPF\obj\Debug\MainWindow.baml
+Z:\OptionPricing.UI.WPF\obj\Debug\App.baml
+Z:\OptionPricing.UI.WPF\obj\Debug\MainWindow.g.cs
+Z:\OptionPricing.UI.WPF\obj\Debug\App.g.cs
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF_MarkupCompile.cache
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF.g.resources
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF.csproj.CoreCompileInputs.cache
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF.exe
+Z:\OptionPricing.UI.WPF\obj\Debug\OptionPricing.UI.WPF.pdb

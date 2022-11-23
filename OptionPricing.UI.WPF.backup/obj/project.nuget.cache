@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCq16w8NuwlwTYjmAA3JDo5lGHMJc+UoMT/LG1B5lksVT52k3pdWOLlMnF5lnAiPUGPIceUiIEVhnE30SkPLfA==",
+  "success": false,
+  "projectFilePath": "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8). Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8). Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8). Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8) / win. Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8) / win. Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8) / win. Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

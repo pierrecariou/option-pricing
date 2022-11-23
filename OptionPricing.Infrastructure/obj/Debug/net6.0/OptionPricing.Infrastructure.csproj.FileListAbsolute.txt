@@ -1,0 +1,12 @@
+Z:/OptionPricing.Infrastructure/bin/Debug/net6.0/OptionPricing.Infrastructure.deps.json
+Z:/OptionPricing.Infrastructure/bin/Debug/net6.0/OptionPricing.Infrastructure.dll
+Z:/OptionPricing.Infrastructure/bin/Debug/net6.0/OptionPricing.Infrastructure.pdb
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.csproj.AssemblyReference.cache
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.AssemblyInfoInputs.cache
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.AssemblyInfo.cs
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.csproj.CoreCompileInputs.cache
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.dll
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/refint/OptionPricing.Infrastructure.dll
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/OptionPricing.Infrastructure.pdb
+Z:/OptionPricing.Infrastructure/obj/Debug/net6.0/ref/OptionPricing.Infrastructure.dll

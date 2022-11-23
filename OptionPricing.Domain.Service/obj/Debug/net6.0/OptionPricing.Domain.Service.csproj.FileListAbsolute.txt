@@ -1,0 +1,17 @@
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.Domain.Service.deps.json
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.Domain.Service.dll
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.Domain.Service.pdb
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.DAO.dll
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.Domain.dll
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.Domain.pdb
+Z:/OptionPricing.Domain.Service/bin/Debug/net6.0/OptionPricing.DAO.pdb
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.csproj.AssemblyReference.cache
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.AssemblyInfoInputs.cache
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.AssemblyInfo.cs
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.csproj.CoreCompileInputs.cache
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.csproj.CopyComplete
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.dll
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/refint/OptionPricing.Domain.Service.dll
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/OptionPricing.Domain.Service.pdb
+Z:/OptionPricing.Domain.Service/obj/Debug/net6.0/ref/OptionPricing.Domain.Service.dll

@@ -1,0 +1,322 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "OptionPricing.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        }
+      },
+      "OptionPricing.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        }
+      },
+      "OptionPricing.Transport/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "OptionPricing.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        }
+      },
+      "OptionPricing.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        }
+      },
+      "OptionPricing.Transport/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "OptionPricing.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        }
+      },
+      "OptionPricing.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        }
+      },
+      "OptionPricing.Transport/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "OptionPricing.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Domain.dll": {}
+        }
+      },
+      "OptionPricing.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Infrastructure.dll": {}
+        }
+      },
+      "OptionPricing.Transport/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OptionPricing.Transport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OptionPricing.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OptionPricing.Domain/OptionPricing.Domain.csproj",
+      "msbuildProject": "../OptionPricing.Domain/OptionPricing.Domain.csproj"
+    },
+    "OptionPricing.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj",
+      "msbuildProject": "../OptionPricing.Infrastructure/OptionPricing.Infrastructure.csproj"
+    },
+    "OptionPricing.Transport/1.0.0": {
+      "type": "project",
+      "path": "../OptionPricing.Transport/OptionPricing.Transport.csproj",
+      "msbuildProject": "../OptionPricing.Transport/OptionPricing.Transport.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "OptionPricing.Domain >= 1.0.0",
+      "OptionPricing.Infrastructure >= 1.0.0",
+      "OptionPricing.Transport >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pierr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj",
+      "projectName": "OptionPricing.UI.WPF",
+      "projectPath": "Z:\\OptionPricing.UI.WPF\\OptionPricing.UI.WPF.csproj",
+      "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
+      "outputPath": "Z:\\OptionPricing.UI.WPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\pierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
+              "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
+            },
+            "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj": {
+              "projectPath": "Z:\\OptionPricing.Infrastructure\\OptionPricing.Infrastructure.csproj"
+            },
+            "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj": {
+              "projectPath": "Z:\\OptionPricing.Transport\\OptionPricing.Transport.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8). Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8). Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8). Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8) / win. Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8) / win. Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8) / win. Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Domain is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project OptionPricing.Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Domain",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Infrastructure is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project OptionPricing.Infrastructure supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Infrastructure",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OptionPricing.Transport is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Project OptionPricing.Transport supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "OptionPricing.Transport",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

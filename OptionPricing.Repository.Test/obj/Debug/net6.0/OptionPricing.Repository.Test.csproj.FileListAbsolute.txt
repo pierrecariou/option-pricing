@@ -1,0 +1,5 @@
+Z:/OptionPricing.Repository.Test/obj/Debug/net6.0/OptionPricing.Repository.Test.csproj.AssemblyReference.cache
+Z:/OptionPricing.Repository.Test/obj/Debug/net6.0/OptionPricing.Repository.Test.GeneratedMSBuildEditorConfig.editorconfig
+Z:/OptionPricing.Repository.Test/obj/Debug/net6.0/OptionPricing.Repository.Test.AssemblyInfoInputs.cache
+Z:/OptionPricing.Repository.Test/obj/Debug/net6.0/OptionPricing.Repository.Test.AssemblyInfo.cs
+Z:/OptionPricing.Repository.Test/obj/Debug/net6.0/OptionPricing.Repository.Test.csproj.CoreCompileInputs.cache
