@@ -119,10 +119,10 @@ Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.DAO.dll
 Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.Domain.dll
 Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.Infrastructure.dll
 Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.Transport.dll
+Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.DAO.pdb
 Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.Domain.pdb
 Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.Infrastructure.pdb
 Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.Transport.pdb
-Z:\OptionPricing.UI.WPF\bin\Debug\net6.0-windows\OptionPricing.DAO.pdb
 Z:\OptionPricing.UI.WPF\obj\Debug\net6.0-windows\OptionPricing.UI.WPF.csproj.AssemblyReference.cache
 Z:\OptionPricing.UI.WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
 Z:\OptionPricing.UI.WPF\obj\Debug\net6.0-windows\App.g.cs

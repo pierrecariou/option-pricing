@@ -36,7 +36,7 @@ public class PricingService : IOptionService
         double price = pricer.Price(pricing);
         pricing.Premium = new Premium((float)price);
 
-        int id = _pricingRepository.InsertPricing(pricing);
+        _pricingRepository.InsertPricing(pricing);
 
         jsonString = _optionPricingSerialiser.Serialize<Pricing>(pricing);
 

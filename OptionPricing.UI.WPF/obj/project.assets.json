@@ -4250,6 +4250,7 @@
       "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers >= 0.4.355802",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Windows.Compatibility >= 7.0.0",
+      "OptionPricing.DAO >= 1.0.0",
       "OptionPricing.Domain >= 1.0.0",
       "OptionPricing.Infrastructure >= 1.0.0",
       "OptionPricing.Transport >= 1.0.0"
@@ -4282,6 +4283,9 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
+            "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+              "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
+            },
             "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
               "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
             },

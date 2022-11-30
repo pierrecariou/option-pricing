@@ -90,9 +90,11 @@
           SelectedItem="{Binding UnderlyingType}" />
 
         
-        <Button Height = "23" Margin = "100" Name = "ShowMessageBox"  HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="13" Grid.Column="1">
-            Option Pricing
+        <Button Height = "23" Margin = "100" Name = "ShowMessageBox"  HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="13" Grid.Column="0" Command="{Binding PriceButton}">
+            Price
         </Button>
+
+        <TextBox IsReadOnly="True" Grid.Row="13" Grid.Column="1" Text="{Binding Premium, Mode=TwoWay}" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 
     </Grid>
 

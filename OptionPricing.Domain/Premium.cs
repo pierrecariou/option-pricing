@@ -10,10 +10,10 @@ public class Premium
 {
 	public float Value {get; private set;}
 
-	public Premium(float premium)
+	public Premium(float Value)
 	{
-		if (premium > 10000)
+		if (Value > 10000)
 			throw new Exception("premium is not valid");
-		Value = premium;
+		this.Value = Value;
 	}
 }

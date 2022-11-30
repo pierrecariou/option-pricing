@@ -17,7 +17,7 @@ registration.Register<IOptionPricingSerializer, OptionPricingSerializer>();
 registration.Register<IOptionRepository, OptionRepository>();
 
 registration.Register<IPricingService, BlackScholes>(Model.BlackScholes);
-registration.Register<IPricingService, HJM_PricingService>(Model.HJM);
+registration.Register<IPricingService, HJM>(Model.HJM);
 
 registration.Register<IOptionService, PricingService>();
 
@@ -25,6 +25,9 @@ var optionService = registration.Resolve<IOptionService>();
 
 using(var responseSocket = new ResponseSocket("@tcp://*:5555") )
 {
+	Console.WriteLine("Service is running");
+	Console.WriteLine("******************");
+	Console.WriteLine();
 	while (true) {
 		var message = responseSocket.ReceiveFrameString();
 		Console.WriteLine($"Message Received : {message}");

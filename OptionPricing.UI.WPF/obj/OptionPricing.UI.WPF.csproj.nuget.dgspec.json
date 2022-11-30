@@ -281,6 +281,9 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
+              "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj": {
+                "projectPath": "Z:\\OptionPricing.DAO\\OptionPricing.DAO.csproj"
+              },
               "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj": {
                 "projectPath": "Z:\\OptionPricing.Domain\\OptionPricing.Domain.csproj"
               },

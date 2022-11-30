@@ -11,6 +11,7 @@
     <Compile Include="**/*.cs" Exclude="bin/**/*.cs;obj/**/*.cs;**/*.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\OptionPricing.DAO\OptionPricing.DAO.csproj" />
     <ProjectReference Include="..\OptionPricing.Domain\OptionPricing.Domain.csproj" />
     <ProjectReference Include="..\OptionPricing.Infrastructure\OptionPricing.Infrastructure.csproj" />
     <ProjectReference Include="..\OptionPricing.Transport\OptionPricing.Transport.csproj" />

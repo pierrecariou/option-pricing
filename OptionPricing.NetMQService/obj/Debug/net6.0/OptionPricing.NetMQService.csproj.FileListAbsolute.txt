@@ -1,8 +1,3 @@
-Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.csproj.AssemblyReference.cache
-Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.GeneratedMSBuildEditorConfig.editorconfig
-Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.AssemblyInfoInputs.cache
-Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.AssemblyInfo.cs
-Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.csproj.CoreCompileInputs.cache
 Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.NetMQService.exe
 Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.NetMQService.deps.json
 Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.NetMQService.runtimeconfig.json
@@ -64,6 +59,11 @@ Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.Repository.pdb
 Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.Domain.Service.pdb
 Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.Domain.pdb
 Z:/OptionPricing.NetMQService/bin/Debug/net6.0/OptionPricing.Service.pdb
+Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.csproj.AssemblyReference.cache
+Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.GeneratedMSBuildEditorConfig.editorconfig
+Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.AssemblyInfoInputs.cache
+Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.AssemblyInfo.cs
+Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.csproj.CoreCompileInputs.cache
 Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.csproj.CopyComplete
 Z:/OptionPricing.NetMQService/obj/Debug/net6.0/OptionPricing.NetMQService.dll
 Z:/OptionPricing.NetMQService/obj/Debug/net6.0/refint/OptionPricing.NetMQService.dll

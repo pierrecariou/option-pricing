@@ -13,6 +13,7 @@
           "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": "0.4.355802",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Microsoft.Windows.Compatibility": "7.0.0",
+          "OptionPricing.DAO": "1.0.0",
           "OptionPricing.Domain": "1.0.0",
           "OptionPricing.Infrastructure": "1.0.0",
           "OptionPricing.Transport": "1.0.0"
